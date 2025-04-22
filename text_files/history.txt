@@ -1,0 +1,10 @@
+pharthiban, 2, 25.00
+anonymous, 3, 30.00
+pharthiban, 4, 45.50
+pharthiban, 10, 45.00
+pharthiban, 2, 22.00
+pharthiban, 1, 17.00
+pharthiban, 12, 69.00
+pharthiban, 2, 7.92
+user1, 2, 22.00
+pharthiban, 3, 33.15
